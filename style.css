@@ -1,0 +1,24 @@
+* {
+  background-color: #000;
+  color: #fff;
+}
+
+.text-center {
+  text-align: center;
+  justify-content: center;
+  height: 25px;
+}
+img {
+  width: 50%;
+  height: auto;
+}
+.img-div {
+  text-align: center;
+  justify-content: center;
+}
+
+.short-text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  justify-content: center;
+}
